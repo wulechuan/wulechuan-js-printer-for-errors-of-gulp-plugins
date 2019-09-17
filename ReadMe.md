@@ -217,8 +217,7 @@ An UglifyJS parsing error.
 
 ### Configurations
 
-Currently only colors are configurable.
-So you may call if "color theme configurations" if you prefer.
+Currently only colors are configurable. So you may call it "color theme configurations" if you prefer.
 
 See [configurations.md](./docs/configurations.md).
 
