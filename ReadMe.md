@@ -1,4 +1,4 @@
-# Printer of Errors of Glup Plugins
+# Wulechuan's Printer For Errors of Glup Plugins
 
 ## NPM Page
 
