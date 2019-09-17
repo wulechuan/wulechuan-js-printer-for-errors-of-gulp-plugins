@@ -1,0 +1,43 @@
+{
+  "name": "@wulechuan/printer-for-errors-of-gulp-plugins",
+  "version": "1.0.0",
+  "author": "wulechuan <wulechuan@live.com>",
+  "license": "WTFPL",
+  "description": "Parse and print PluginError objects of gulpjs, beautifully.",
+  "keywords": [
+    "gulp",
+    "PluginError",
+    "error",
+    "errorStack",
+    "errorMessage",
+    "log",
+    "logging",
+    "format",
+    "beautify"
+  ],
+  "main": "source/gulp-plugin-error-printer.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "start": "gulp    --gulpfile ./examples/gulpfile.js    --silent    --"
+  },
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "deepmerge": "^2.2.1"
+  },
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-less": "^4.0.1",
+    "gulp-stylus": "^2.7.0",
+    "gulp-uglify": "^3.0.2"
+  },
+  "homepage": "https://github.com/wulechuan/wulechuan-js-printer-for-errors-of-gulp-plugins#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wulechuan/wulechuan-js-printer-for-errors-of-gulp-plugins.git"
+  },
+  "bugs": {
+    "url": "https://github.com/wulechuan/wulechuan-js-printer-for-errors-of-gulp-plugins/issues"
+  }
+}
