@@ -67,6 +67,8 @@ function choosePluginErrorParseAccordingToInvolvedPluginName(pluginName) {
 			return require('./gulp-plugin-error-parsers/gulp-less-error-parser');
 		case 'gulp-sass':
 			return require('./gulp-plugin-error-parsers/gulp-sass-error-parser');
+		case 'gulp-dart-sass':
+			return require('./gulp-plugin-error-parsers/gulp-dart-sass-error-parser');
 		case 'gulp-postcss':
 			return require('./gulp-plugin-error-parsers/gulp-postcss-error-parser');
 		default:

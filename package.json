@@ -1,6 +1,6 @@
 {
-  "name": "@wulechuan/printer-for-errors-of-gulp-plugins",
-  "version": "1.0.0",
+  "name": "@ronilaukkarinen/printer-for-errors-of-gulp-plugins",
+  "version": "1.0.1",
   "author": "wulechuan <wulechuan@live.com>",
   "license": "WTFPL",
   "description": "Parse and print PluginError objects of gulpjs, beautifully.",
